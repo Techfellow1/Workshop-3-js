@@ -42,7 +42,17 @@
 //     return min;
 
 
-    // #4
+    // // #4
+    // let a = 25;
+    // let b = 50;
+    
+    // let min = Math.min(a, b);
+    // console.log(`Min of ${a} and ${b} is ${min}`);
+    
+    // let max = Math.max(a, b);
+    // console.log(`Max of ${a} and ${b} is ${max}`);
 
 
+    // #5 
+   
 
