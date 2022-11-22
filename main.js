@@ -53,6 +53,12 @@
     // console.log(`Max of ${a} and ${b} is ${max}`);
 
 
-    // #5 
+    // // #5 
    
+    // let x = function(x, y) {
+    //     return x * y;
+    //  }
 
+    // #6
+
+    
