@@ -23,24 +23,26 @@
 
 // #3
 
-let array = [1, 5, 35, 65, 87, 120, 175, 220, 260]; 
-    let max = 0;
-    for(let i=0; i<array.length; i++ ) {
-       if(array[i]>max) {
-          max = array[i];
-       }
-    }
-    return max;
+// let array = [1, 5, 35, 65, 87, 120, 175, 220, 260]; 
+//     let max = 0;
+//     for(let i=0; i<array.length; i++ ) {
+//        if(array[i]>max) {
+//           max = array[i];
+//        }
+//     }
+//     return max;
 
-    let min = array[0];
+//     let min = array[0];
    
-    for(let i=0; i<array.length; i++ ) {
-       if(array[i]<min) {
-          min = array[i];
-       }
-    }
-    return min;
+//     for(let i=0; i<array.length; i++ ) {
+//        if(array[i]<min) {
+//           min = array[i];
+//        }
+//     }
+//     return min;
 
 
     // #4
+
+
 
